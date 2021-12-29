@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04de4c82-019d-4901-93de-8f12c89a35f0" name="Changes" comment="" />
+    <list default="true" id="04de4c82-019d-4901-93de-8f12c89a35f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/meetups/static/styles/meetup-detail.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetups/static/styles/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/meetups/static/styles/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetups/templates/meetups/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetups/templates/meetups/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetups/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/meetups/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="22job2AJJS9o7c1mW73bwzeGorc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
